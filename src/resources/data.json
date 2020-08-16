@@ -1,0 +1,270 @@
+[
+  {
+    "translations": [
+      {
+        "tag": "innsbruck_info_not_touristic_header",
+        "translations": {
+          "DE": "Kein Touristische Stadt",
+          "EN": "Not a touristic city",
+          "ES": "no pueblo para tourist"
+        }
+      },
+      {
+        "tag": "innsbruck_info_not_touristic_desc",
+        "translations": {
+          "DE": "Gar nicht. Ich habe alle Touristen nur in die Stadtcentrum gesehen. Aber sie gehen nicht so gerne in Bergen oder andere Teil der Sgtadt. Wenn du natur magst oder hiking es ist ein Himmel für dich",
+          "EN": "Not at all. But I did see tourists in the center but they prefer not to go into the mountains or other places. So if you are a nature wonderer or hiker this is your heaven.",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "innsbruck_info_tourist_info_header",
+        "translations": {
+          "DE": "Tourist Information Punkt",
+          "EN": "Tourist Information Point",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "innsbruck_info_tourist_info_desc",
+        "translations": {
+          "DE": "Es gibt ein im Hauptbahnhof, aber das hat mir niht so gut gefallen. Es gibt ein sehr gut Touristi Informacion Büro in Stadtcentrum. Es ist sehr gemutlich. Niemand wird dich zwingen etwas zu kaufen",
+          "EN": "In the Hauptbahnhof the tourist info point I didnt feel that good. There is a very nice tourist information centre which is Innsbruck Tourismus near the city center. Very calm and chill place. No one will push you to buy stuffs.",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "innsbruck_info_city_card_header",
+        "translations": {
+          "DE": "Stadtkarte",
+          "EN": "City Card",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "innsbruck_info_city_card_desc",
+        "translations": {
+          "DE": "Ich werde emphfehlen diese für Innsbruck. Alle leuete gehen mindestens in Nordkette das kostet fast 32 Euro. Taglich Stadtkarte kostet 40 Euro. Besser wenn du für 2 tage diese Karte kaufst was wird kosten fast 50 Euro. Du kannst viele schönes ort besuchen zB: Nordkette, Alpenzoo, Stadturm. Kristalwelt. Es gibt auch ein paar Winter activitaten das frei sind mit diese Karte. Auch bekommst du kostenlos Public Transport",
+          "EN": "I would definitely recommend this one for Innsbruck. Because everyone goes at least to Top of Innsbruck Nordkette which costs anyway around 32EUR. Daily city card is around 40 EUR. I recomment buying 2 days of city card around 50 EUR. You can goto lots of nice places like Nordkette, Alpenzoo, Stadtturm, Kritalworld Garden and few winter activities which are all free with City card. And it also comes with public transport.",
+          "ES": "no puedo :("
+        }
+      }
+    ],
+    "slug": "innsbruck",
+    "featured": false,
+    "country": "Austria",
+    "photosCollection": {
+      "items": [
+        {
+          "title": "Malta",
+          "description": "Valeta",
+          "url": "https://images.ctfassets.net/h6j8w88g7w0o/e7Ke0ffoxOcwRs2bdmClg/4290e2aa73e9c1d3639b9f1cd4d6c499/malta_img.jpg"
+        },
+        {
+          "title": "Photo by Foodie Factor from Pexels",
+          "description": null,
+          "url": "https://images.ctfassets.net/h6j8w88g7w0o/oyloBaUo391Jk6W2EBnSg/4697bfdbdf2590bbdd8e477b3bfbfc2a/avocado-close-up-colors-cut-557659.jpg"
+        },
+        {
+          "title": "Tiramisu",
+          "description": "Photo by Alexander Dummer from Pexels",
+          "url": "https://images.ctfassets.net/h6j8w88g7w0o/1KNrrcBcdJwdgo27v57U7n/a25d64292b11bdffb8a63ddfbee3c1d6/food-plate-chocolate-dessert-132694.jpg"
+        }
+      ]
+    },
+    "image": {
+      "url": "https://images.ctfassets.net/h6j8w88g7w0o/4WGx7De19L1cBRvkq7JrYE/1f462a218a8042f62eba67ac8bc73765/innsbruck.jpg",
+      "title": "Innsbruck"
+    }
+  },
+  {
+    "translations": [
+      {
+        "tag": "malta_info_transport_description_1",
+        "translations": {
+          "DE": "Transport ist sehr billig in Malta. Einzel fahrt kostet 1.5 Euro. Kannst du auch im Bus Tickets kaufen. Ich wurde sehr emphelen diese Wochentlich/taglich Transport karte zu kaufen. Es spärt Zeit. Es ist billiger und auch einchecken lauft schneller",
+          "EN": "Transport is really cheap in Malta. Each bus trip has fixed cost of 1.5 Euros. But on bus its a hassle to buy tickets. I would highly recommend buying the transport cards they offer. Its cheaper and also lot faster checkin in buses.",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "malta_info_transport_description_2",
+        "translations": {
+          "DE": "Von ein teil des Land bis andere braucht man 2-3 stunden mit dem Bus.",
+          "EN": "From one part of the country to another it takes around 2-3 hours on bus.",
+          "ES": "De una Parte de Pais a Otro parte nesecite 2-3 horas"
+        }
+      },
+      {
+        "tag": "malta_info_cash_header",
+        "translations": {
+          "DE": "💵 Geld",
+          "EN": "💵 Money",
+          "ES": "💵 Dinero"
+        }
+      },
+      {
+        "tag": "malta_info_cash_description_1",
+        "translations": {
+          "DE": "Wahrung: EUR",
+          "EN": "Currency: EUR",
+          "ES": "Dinero: EUR"
+        }
+      },
+      {
+        "tag": "malta_info_cash_description_2",
+        "translations": {
+          "DE": "AM meistens brauchst du Bar geld. Es gibt viele Euronet ATM machine. Ich habe 3-5 EUR bezhalt für 150 EUR abholen",
+          "EN": "You mostly have to pay with cash. So make sure you bring cash with you. If not there are debit machines with good rates. I took out 150 euros with 3.95 fees in Euronet ATM machine.",
+          "ES": "Necesitas Cash dinero siempre. Yo pagar 3-5 EUR para recibir 150 EUR"
+        }
+      },
+      {
+        "tag": "malta_info_water_desc1",
+        "translations": {
+          "DE": "Kann ich wasser direkt von Tap trinken? Nein",
+          "EN": "Can I drink water directly from Tap? No",
+          "ES": "puedo beber agua directamente del grifo? no"
+        }
+      },
+      {
+        "tag": "malta_info_water_desc2",
+        "translations": {
+          "DE": "Wasser ist nicht so einfach in Malta. Malta importiert Wasser von UK. Aber nach Brexit importiert wurde von Italien. Also Tap wasser ist nicht eingfach trinkbar. Du solltest wasser immer kaufen. Kauf die Grosseste Flasche von Supermarkt",
+          "EN": "Water is very scarce in Malta. They used to import it from UK. But after Brexit now they are importing it from Italy. So from Tap you wont get drinkable water. Make sure you always buy big water bottles from supermarkets while in Malta.",
+          "ES": "Asegúrate de que siempre comrar agua botelas de marcado en Malta."
+        }
+      },
+      {
+        "tag": "malta_info_mdina_header",
+        "translations": {
+          "DE": "Mdina",
+          "EN": "Mdina",
+          "ES": "Mdina"
+        }
+      },
+      {
+        "tag": "malta_info_water_header",
+        "translations": {
+          "DE": "💧 Wasser",
+          "EN": "💧 Water",
+          "ES": "💧 Agua"
+        }
+      },
+      {
+        "tag": "malta_info_popeye_header",
+        "translations": {
+          "DE": "Dörf von Popeye",
+          "EN": "Popeye's Village",
+          "ES": "Pueblo de Popeye's"
+        }
+      },
+      {
+        "tag": "malta_info_transport_header",
+        "translations": {
+          "DE": "🚗 Transport",
+          "EN": "🚗 Transport",
+          "ES": "🚗 Transporte"
+        }
+      },
+      {
+        "tag": "malta_info_popeye_description",
+        "translations": {
+          "DE": "Obwohl es war gebaut wegen ein Film, jetzt es ist ein Touristicshe Platz. Eintritt ist 15 euros. Ich war nicht rein gegangen. Von draüßsen konnte ich diese Photo Machen :D",
+          "EN": "Although it was made as a film set now its a tourist attraction some activities. Entry was around 15 euros. I didn’t go inside just from outside I was able to take wonderful pictures of the village.",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "malta_info_mdina_description_1",
+        "translations": {
+          "DE": "Es war die alte Hauptstadt von Malta. Später würde Valette die Hauptstadt gemacht. Hier alle tourisische sache sind in eine platz die heisst Vilhena Palace. Mdina Tür, St pauls Cathedral alle kann man erreichen mit dem füß",
+          "EN": "This used to be the old capital of Malta. Later Capital was moved to Valetta. Here most of the touristic things are actually focused in one place called Vilhena Palace. Mdina Gate, St pauls Cathedral etc all are in the same place with walking distance.",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "malta_info_mdina_description_2",
+        "translations": {
+          "DE": "Vilhena Palace: Du kannst Pferde ritter mieten. Der fuhrer erklart dich alles uber die Schloß",
+          "EN": "Vilhena Palace: You can take a nice horse ride. The driver explains all the things inside the palace",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "malta_info_geography_header",
+        "translations": {
+          "DE": "🌎 Geographie",
+          "EN": "🌎 Geography",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "malta_info_geography_description",
+        "translations": {
+          "DE": "Malta hat 3 verschieden Inselns. Malta, Comino und Gozo. Ich werde empfehlen alles Inseln zu besuchen.",
+          "EN": "Malta has 3 different Islands: Malta, Comino and Gozo. I would recommend you to visit each one of these to fully enjoy the whole country.",
+          "ES": "no puedo :("
+        }
+      },
+      {
+        "tag": "First_island_title",
+        "translations": {
+          "DE": "🏝️ 1️⃣ Erste Inseln: Malta",
+          "EN": "🏝️ 1️⃣ First Island: Malta",
+          "ES": "🏝️ 1️⃣ Primera isla: Malta"
+        }
+      },
+      {
+        "tag": "First_island_description",
+        "translations": {
+          "DE": "Der haupt insel von Malta. In diese Hauptinsel gibt es viele staadt. Den erste heist",
+          "EN": "The main Island of Malta. In the mainland there are lots of cities. The first city is",
+          "ES": "El primero isla de Malta Pais. En este isla hay mucho cuidades. El primero cuidad llamo"
+        }
+      },
+      {
+        "tag": "Valeta_title",
+        "translations": {
+          "DE": "Valeta",
+          "EN": "Valeta",
+          "ES": "Valeta"
+        }
+      },
+      {
+        "tag": "Valeta_description",
+        "translations": {
+          "DE": "Sicht von Valetta. Den Beste view bekommst du von ein Ferry trip das kostet fast 5 euro",
+          "EN": "View of Valetta. You can get the best view on a ferry to valetta that would cost around 5 euro round trip",
+          "ES": "View de Valetta. El mejor view de valeta recibes de una Ferry"
+        }
+      }
+    ],
+    "slug": "malta",
+    "featured": true,
+    "country": "Malta",
+    "photosCollection": {
+      "items": [
+        {
+          "title": "PopeyesVillage",
+          "description": null,
+          "url": "https://images.ctfassets.net/h6j8w88g7w0o/3zSaRWRxxbMNW1hURtzPIP/b54936864dd309d77549d0371445c492/PopeysVillage.jpg"
+        },
+        {
+          "title": "Malta",
+          "description": "Valeta",
+          "url": "https://images.ctfassets.net/h6j8w88g7w0o/e7Ke0ffoxOcwRs2bdmClg/4290e2aa73e9c1d3639b9f1cd4d6c499/malta_img.jpg"
+        },
+        {
+          "title": "Mdina",
+          "description": null,
+          "url": "https://images.ctfassets.net/h6j8w88g7w0o/5Y8utcntEUiqTbPHUjrdqJ/4f2823caa8c4381810cb90485eeec933/Mdina.jpg"
+        }
+      ]
+    },
+    "image": {
+      "url": "https://images.ctfassets.net/h6j8w88g7w0o/e7Ke0ffoxOcwRs2bdmClg/4290e2aa73e9c1d3639b9f1cd4d6c499/malta_img.jpg",
+      "title": "Malta"
+    }
+  }
+]

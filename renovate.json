@@ -1,0 +1,6 @@
+{
+  "extends": ["config:base"],
+  "rangeStrategy": "replace",
+  "bumpVersion": "patch",
+  "automerge": true
+}
