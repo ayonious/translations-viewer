@@ -7,13 +7,21 @@
 It helps for reviewing the content and tranlations overview
 
 <p align="center">
-  <img height="auto" width="1000px" alt="Screenshot" src="https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.2.png">
+  <img height="auto" width="1000px" alt="Screenshot" src="https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.png">
 </p>
 
 ## 🔬 Currently showing
 
 1. Translations
 2. Pictures
+
+## Responsiveness
+
+Thanks to amazing media query this single page website is responsive
+
+| Desktop                                                                                                          | Tablet                                                                                                         | Mobile                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![Desktop](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.png) | ![Tablet](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.tablet.png) | ![Mobile](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.png) |
 
 ## 🆕 How to update content
 

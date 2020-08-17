@@ -3,10 +3,10 @@ import styled from 'styled-components';
 export const ColumnWrapper = styled.div`
   display: flex;
   align-items: center;
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 800px) {
     flex-direction: row;
   }
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 800px) {
     flex-direction: column;
   }
 `;
@@ -53,7 +53,7 @@ export const CellWrapper = styled.p`
   font-size: 20px;
   max-width: 300px;
   margin: 12px;
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 800px) {
     border-top: 2px solid grey;
   }
 `;
