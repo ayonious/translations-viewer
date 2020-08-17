@@ -5,7 +5,6 @@ import PostCard from '../../externalcomponents/PostCard';
 import database, { Photo, Translation } from '../../resources/Database';
 import { createDropDown } from '../FilterFunctionCreater';
 import Filters, { Filter } from '../Filters';
-import Greeting from '../Greeting';
 import Header from '../Header';
 import Footer from '../Footer';
 import ResultList from '../ResultList';
@@ -106,12 +105,11 @@ const Dashboard = () => {
 
   return (
     <WholePageWrapper>
-      <FixedRowWrapper>
-        <Greeting />
-        <Filters filters={filtersOnLeft} />
-      </FixedRowWrapper>
       <CenterPageContentWrapper>
         <Header filters={filtersOnNavbar} />
+        <FixedRowWrapper>
+          <Filters filters={filtersOnLeft} />
+        </FixedRowWrapper>
         <ColumnWrapper>
           <ResultList PostCard={PostCard} results={filteredRes} />
         </ColumnWrapper>

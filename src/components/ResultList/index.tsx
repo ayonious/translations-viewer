@@ -1,8 +1,7 @@
 import React from 'react';
 
-import { CardsWrapper } from './styles';
-import { Data, Translation } from '../../resources/Database';
 import { ProcessedData } from '../Dashboard';
+import { CardsWrapper } from './styles';
 
 interface RsProps {
   results: ProcessedData[];
