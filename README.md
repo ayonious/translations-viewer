@@ -19,9 +19,9 @@ It helps for reviewing the content and tranlations overview
 
 Thanks to amazing media query this single page website is responsive
 
-| Desktop                                                                                                          | Tablet                                                                                                         | Mobile                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![Desktop](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.png) | ![Tablet](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.tablet.png) | ![Mobile](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.png) |
+| Desktop                                                                                                          | Tablet                                                                                                         | Mobile                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| ![Desktop](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.png) | ![Tablet](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.tablet.png) | ![Mobile](https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.mobile.png) |
 
 ## 🆕 How to update content
 
