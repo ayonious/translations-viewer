@@ -14,10 +14,6 @@ export const NavHeader = styled.div`
   padding: 1rem 1.25rem;
 `;
 
-export const IconWrapper = styled.span`
-  margin-top: 0.2rem;
-`;
-
 export const SpanWrapper = styled.span`
   padding: 0.2rem 0.2rem;
   text-align: center;
