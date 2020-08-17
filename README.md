@@ -15,7 +15,7 @@ It helps for reviewing the content and tranlations overview
 1. Translations
 2. Pictures
 
-## Responsiveness
+## 📱 Responsiveness
 
 Thanks to amazing media query this single page website is responsive
 
