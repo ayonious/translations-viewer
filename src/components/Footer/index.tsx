@@ -18,7 +18,7 @@ const Footer = () => {
             This is an opensource project you can find the source code in
           </SpanWrapper>
           <LinkCenter href="https://github.com/ayonious/translations-viewer">
-            <SpanWrapper>github</SpanWrapper>
+            <SpanWrapper>gitHub</SpanWrapper>
           </LinkCenter>
         </NavHeader>
       </NavCenter>
