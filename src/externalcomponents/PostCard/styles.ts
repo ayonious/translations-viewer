@@ -29,7 +29,7 @@ export const PhotoCardWrapper = styled.div`
 
 export const CardWrapper = styled.div`
   background: ${(p: { index: number }) =>
-    p.index % 2 === 0 ? 'rgb(250, 250, 250)' : 'rgb(241, 241, 242)'};
+    p.index % 2 === 0 ? 'rgb(221, 230, 255)' : 'rgb(241, 242, 252)'};
   border: 2px solid grey;
   border-radius: 4px;
   margin: 2px;

@@ -23,7 +23,6 @@ export const CenterPageContentWrapper = styled.div`
   @media only screen and (min-width: 1200px) {
     width: 1200px;
   }
-  border: 2px solid black;
 `;
 
 export const WholePageWrapper = styled.div`

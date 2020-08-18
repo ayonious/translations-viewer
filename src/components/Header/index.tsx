@@ -11,7 +11,7 @@ import HeaderTab from './HeaderTab';
 const Header = ({ filters }: { filters: Filter[] }) => {
   return (
     <CenteredFlexDevWrapper>
-      <LeftHeadlineWrapper> Travel Blog Reviewer </LeftHeadlineWrapper>
+      <LeftHeadlineWrapper> 🗺️ Travel Blog Reviewer </LeftHeadlineWrapper>
       <TabsWrapper>
         {filters.map((filter: Filter) => {
           if (filter.type === 'dropdown') {

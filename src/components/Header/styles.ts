@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const CenteredFlexDevWrapper = styled.div`
   display: flex;
-  background-color: rgb(28, 37, 41);
+  background-color: rgb(65, 80, 170);
   @media only screen and (max-width: 1200px) {
     max-width: 1200px;
   }
