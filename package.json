@@ -4,9 +4,10 @@
   "description": "Reviewing translations for my travel blog in different languages",
   "keywords": [
     "react",
-    "template",
     "search page",
-    "filter page"
+    "filter page",
+    "blog",
+    "translations"
   ],
   "dependencies": {
     "@material-ui/core": "4.11.0",
