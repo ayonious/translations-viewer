@@ -3,10 +3,10 @@ import styled from 'styled-components';
 export const ColumnWrapper = styled.div`
   display: flex;
   align-items: center;
-  @media only screen and (min-width: 800px) {
+  @media only screen and (min-width: 768px) {
     flex-direction: row;
   }
-  @media only screen and (max-width: 800px) {
+  @media only screen and (max-width: 768px) {
     flex-direction: column;
   }
 `;
@@ -52,7 +52,7 @@ export const CellWrapper = styled.p`
   text-align: left;
   font-size: 20px;
   margin: 12px;
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 992px) {
     border-top: 2px solid grey;
   }
 `;
@@ -64,10 +64,10 @@ export const TagCellWrapper = styled.p`
 
 export const TranslationCellWrapper = styled.p`
   display: flex;
-  @media only screen and (min-width: 1200px) {
+  @media only screen and (min-width: 992px) {
     flex-direction: row;
   }
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 992px) {
     flex-direction: column;
   }
   font-size: 20px;

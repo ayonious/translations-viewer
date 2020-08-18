@@ -17,11 +17,11 @@ export const CenterPageContentWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  @media only screen and (max-width: 1200px) {
-    max-width: 1200px;
+  @media only screen and (max-width: 992px) {
+    max-width: 992px;
   }
-  @media only screen and (min-width: 1200px) {
-    width: 1200px;
+  @media only screen and (min-width: 992px) {
+    width: 992px;
   }
 `;
 

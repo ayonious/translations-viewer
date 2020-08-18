@@ -3,10 +3,10 @@ import styled from 'styled-components';
 export const CenteredFlexDevWrapper = styled.div`
   display: flex;
   background-color: rgb(65, 80, 170);
-  @media only screen and (min-width: 1200px) {
-    width: 1200px;
+  @media only screen and (min-width: 992px) {
+    width: 992px;
   }
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 992px) {
     width: 100vw;
   }
 `;
