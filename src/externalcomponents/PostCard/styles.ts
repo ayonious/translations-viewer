@@ -51,9 +51,8 @@ export const ImgWrapper = styled.div`
 export const CellWrapper = styled.p`
   text-align: left;
   font-size: 20px;
-  max-width: 300px;
   margin: 12px;
-  @media only screen and (max-width: 800px) {
+  @media only screen and (max-width: 1200px) {
     border-top: 2px solid grey;
   }
 `;
@@ -61,6 +60,15 @@ export const CellWrapper = styled.p`
 export const TagCellWrapper = styled.p`
   text-align: left;
   font-size: 20px;
-  max-width: 300px;
-  margin: 12px;
+`;
+
+export const TranslationCellWrapper = styled.p`
+  display: flex;
+  @media only screen and (min-width: 1200px) {
+    flex-direction: row;
+  }
+  @media only screen and (max-width: 1200px) {
+    flex-direction: column;
+  }
+  font-size: 20px;
 `;

@@ -9,6 +9,7 @@ import {
   TagCellWrapper,
   ImgWrapper,
   PhotoCardWrapper,
+  TranslationCellWrapper,
 } from './styles';
 
 export interface PostCardProps {
@@ -28,11 +29,13 @@ const TranslationsCard = (props: PostCardProps) => {
     <CardWrapper index={index}>
       <ColumnWrapper>
         <TagCellWrapper> {data.tag} </TagCellWrapper>
-        {Object.keys(data.translations).map((language: string) => (
-          <CellWrapper>
-            ({language}) {data.translations[language as Language]}
-          </CellWrapper>
-        ))}
+        <TranslationCellWrapper>
+          {Object.keys(data.translations).map((language: string) => (
+            <CellWrapper>
+              ({language}) {data.translations[language as Language]}
+            </CellWrapper>
+          ))}
+        </TranslationCellWrapper>
       </ColumnWrapper>
     </CardWrapper>
   );
