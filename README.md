@@ -7,7 +7,7 @@
 It helps for reviewing the content and tranlations overview
 
 <p align="center">
-  <img height="auto" width="1000px" alt="Screenshot" src="https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.png">
+  <img height="auto" width="1000px" alt="Screenshot" src="https://cdn.jsdelivr.net/gh/ayonious/translations-viewer@master/documentation/screenshot.desktop.2.png">
 </p>
 
 ## 🔬 Currently showing
