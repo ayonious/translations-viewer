@@ -30,7 +30,6 @@ export const WholePageWrapper = styled.div`
   display: flex;
   font-family: 'Comic Neue', cursive;
   justify-content: center;
-  background-color: rgb(227, 230, 230);
   padding: 0px;
   margin: 0px;
 `;
