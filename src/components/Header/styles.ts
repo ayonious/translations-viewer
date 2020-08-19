@@ -12,7 +12,6 @@ export const CenteredFlexDevWrapper = styled.div`
 `;
 
 export const TabsWrapper = styled.div`
-  margin-left: 120px;
   display: flex;
   align-items: center;
 `;
