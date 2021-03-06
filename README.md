@@ -25,7 +25,14 @@ Thanks to amazing media query this single page website is responsive
 
 ## 🆕 How to update content
 
-1. Update your contentful api keys in script/downloadTranslations.js file
+1. Update your contentful api keys in .env.develpment file
+
+```text
+// setttings > apikeys > travel-blog-translations-viewer > Content Preview API - access token
+CONTENTFUL_SPACE_ID=<>
+CONTENTFUL_PREVIEW_API_ACCESS_TOKEN=<>
+```
+
 2. yarn translations
 3. Commit all translations and push the changes
 
