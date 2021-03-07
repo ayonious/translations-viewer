@@ -1,17 +1,17 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const space = 'h6j8w88g7w0o';
+require('dotenv').config({
+  path: `.env.development`,
+});
 
-const clientToken = 'secret'; // please put the client Token
 // setttings > apikeys > travel-blog-translations-viewer > Content Preview API - access token
-
 const headers = {
-  Authorization: `Bearer ${clientToken}`,
+  Authorization: `Bearer ${process.env.CONTENTFUL_PREVIEW_API_ACCESS_TOKEN}`,
   'Content-Type': ' application/json',
 };
 
-const url = `https://graphql.contentful.com/content/v1/spaces/${space}`;
+const url = `https://graphql.contentful.com/content/v1/spaces/${process.env.CONTENTFUL_SPACE_ID}`;
 
 const runQuery = async (query) => {
   try {
@@ -40,7 +40,7 @@ const getAllTranslations = async () => {
 };
 
 const runProg = async () => {
-  if (clientToken === 'secret') {
+  if (!process.env.CONTENTFUL_PREVIEW_API_ACCESS_TOKEN) {
     console.log('Please set client token first', err);
     return;
   }
