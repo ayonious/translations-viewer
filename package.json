@@ -14,7 +14,7 @@
     "lodash": "^4.17.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "styled-components": "5.3.6",
+    "styled-components": "5.3.8",
     "webfontloader": "^1.6.28"
   },
   "scripts": {
@@ -39,7 +39,7 @@
     "@babel/preset-typescript": "^7.21.0",
     "@testing-library/react": "^14.0.0",
     "@types/lodash": "^4.14.191",
-    "@types/node": "^18.14.0",
+    "@types/node": "^18.14.6",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "@types/react-test-renderer": "^18.0.0",
